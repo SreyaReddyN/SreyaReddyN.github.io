@@ -1,3 +1,8 @@
+---
+layout: default
+title: Data Analytics
+---
+
 ### Data Analytics Projects
 
 **[Exploratory Data Analysis Mental Health](https://github.com/sakshiiiir/EDA-Mental-Health)** | R Studio, Statistical Modeling
