@@ -1,3 +1,7 @@
+---
+layout: default
+title: Home
+---
 <p align="center">
   <a href="sreyareddy0127@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
