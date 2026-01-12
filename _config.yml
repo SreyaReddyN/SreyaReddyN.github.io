@@ -5,20 +5,24 @@
 # theme: jekyll-theme-minimal
 
 # Site configuration
-title: "Sakshi Rathi"
+title: "Sreya Reddy"
 logo: /assets/img/edit5.png
-description: #text below image #"Data Scientist | Data Analyst | Machine Learning Enthusiast"
-show_downloads: true
-url: "https://sakshiiiir.github.io"  # URL for GitHub Pages
-baseurl: "/portfolio"  # Adjust this to match your repo name on GitHub Pages
+description: "MS Data Science @ CU Boulder | ML • Analytics • Visualization"
+show_downloads: false
 
-# Author information
+# For a USER site (SreyaReddyN.github.io), baseurl must be empty
+baseurl: ""
+url: "https://sreyareddyn.github.io"
+
+theme: jekyll-theme-minimal
+
 author:
-  name: "Sakshi Rathi"
-  email: "sakshi.k.rathi@gmail.com"
+  name: "Sreya Reddy"
+  email: "your-email@example.com"
   social:
-    linkedin: "https://www.linkedin.com/in/sakshi-k-rathi/"
-    github: "https://github.com/sakshiiiir"
+    linkedin: "https://www.linkedin.com/in/YOUR-LINKEDIN/"
+    github: "https://github.com/SreyaReddyN"
+
 
 # Theme settings
 theme: jekyll-theme-minimal  # You can choose a theme that suits your style
