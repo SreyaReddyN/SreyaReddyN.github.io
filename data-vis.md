@@ -1,3 +1,8 @@
+---
+layout: default
+title: Data Visualization
+---
+
 ### Data Visualization Project
 
 **[Credit Card Financial Dashboard](https://github.com/sakshiiiir/Credit_Card-Financial_Dashboard)** | MS SQL Server , PowerBi
