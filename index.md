@@ -114,23 +114,6 @@ With 2 years of hands-on experience in data analysis, machine learning, and clou
 
 ---
 
-### Deep Learning
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
-  <img src="https://img.shields.io/badge/LLMs-9B59B6.svg?style=for-the-badge&logo=ai&logoColor=white" alt="LLMs">
-  <img src="https://img.shields.io/badge/GenerativeAI-3DDC84.svg?style=for-the-badge&logo=ai&logoColor=white" alt="Generative AI">
-</p>
-
-#### [Explore Deep Learning Work](deep-learning.md)
-<p align="center">
-  <a href="https://github.com/sakshiiiir/portfolio/blob/main/deep-learning.md">
-  </a>
-</p>
-
----
 ### AI 
 <p align="center">
   <img src="https://img.shields.io/badge/LLMs-9B59B6.svg?style=for-the-badge&logo=openai&logoColor=white" alt="Large Language Models"> 
