@@ -9,7 +9,7 @@ title: Home
   <a href="https://www.linkedin.com/in/sreya-reddy-n-5188721a7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://drive.google.com/file/d/19gbgUCgMokaV7xUsca264euZVWckKczN/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1B8RYVzY9GZu3KnLV_eoyjyCT9mRn5_hu/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Resume-%230077B5.svg?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume">
   </a>
 </p>
